@@ -17,10 +17,10 @@
 
 # Credits
 
-1. Dynamically changing textbox colors, lines 19-32: Kathyrn Young (Student), Sean McCarthy (Teacher's Assistant), Joshua Bohde (Instructor ) -- Office Hours
-2. Displaying today's time, lines 45-47: https://day.js.org/docs/en/parse/now
-3. Saving textarea to localStorage, lines 7-14: GTP-4 Tutor Prompts (no direct code solutions), Kathyrn Young (lines 10-11) -- Office Hours
-4. Retrieving + persistence of localStorage information, lines 36-41: AskBCS Learning Assistant, dgaither
+1. Dynamically changing textbox colors, lines 17-29: Kathyrn Young (Student), Sean McCarthy (Teacher's Assistant), Joshua Bohde (Instructor ) -- Office Hours, GTP-4 Tutor Prompts (no direct code solutions)
+2. Displaying today's time, lines 42-44: https://day.js.org/docs/en/parse/now
+3. Saving textarea to localStorage, lines 5-12: GTP-4 Tutor Prompts (no direct code solutions), Kathyrn Young (lines 8-9) -- Office Hours
+4. Retrieving + persistence of localStorage information, lines 33-38: AskBCS Learning Assistant, dgaither, GTP-4 Tutor Prompts (no direct code solutions)
 
 
 
