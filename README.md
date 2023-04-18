@@ -11,7 +11,7 @@
  2. Write an event
  3. Click the save button icon to the right
  4. All your events should remain, even after refreshing the page.
- 5. To delete an event, click on the textarea, erase the contents, then click the save button.
+ 5. To delete an event, click on the textarea, erase the contents, then click the save button and refresh the page.
 
  The application can be accessed here: https://lyubomirg1995.github.io/business-calendar/
 
