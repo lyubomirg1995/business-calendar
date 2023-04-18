@@ -45,6 +45,13 @@ $(function () {
     // the values of the corresponding textarea elements. HINT: How can the id
     // attribute of each time-block be used to do this?
     
+    $('.time-block').each(function() {
+        var timeBlockId = $(this).parent().attr('id')
+        var textString = localStorage.getItem(timeBlockId);
+        var text = JSON.parse(textString)
+        $(this).children('.description').val(text);
+    })
+
 
 
        var currentDate = dayjs(); 
